@@ -65,7 +65,7 @@ arsDEC = [] spawn
 	[_box, _arsenal] call ace_arsenal_fnc_initBox;
 };
 
-// -- Жиды и подсосы
+// -- Жиды и подсосы.
 
 arsZulu = [] spawn 
 {
