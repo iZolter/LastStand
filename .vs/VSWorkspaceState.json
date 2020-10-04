@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\ls_mission.chernarusredux",
+    "\\src\\ls_mission.chernarusredux\\scripts",
+    "\\src\\ls_mission.chernarusredux\\scripts\\chat"
+  ],
+  "SelectedNode": "\\src\\ls_mission.chernarusredux\\scripts\\chat\\targetmarker.sqf",
+  "PreviewInSolutionExplorer": false
+}
